@@ -1,0 +1,25 @@
+# Environment secrets
+.env
+.env.local
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Build output
+frontend/dist/
+backend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
